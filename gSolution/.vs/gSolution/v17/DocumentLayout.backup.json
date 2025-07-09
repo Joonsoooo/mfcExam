@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gPrjDlg.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
+              "RelativeDocumentMoniker": "gPrj\\gPrjDlg.cpp",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
+              "RelativeToolTip": "gPrj\\gPrjDlg.cpp",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAewKAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T11:39:54.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc",
+              "RelativeDocumentMoniker": "gPrj\\gPrj.rc",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "RelativeToolTip": "gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-09T11:27:16.236Z",
+              "EditorCaption": " - IDD_GPRJ_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
