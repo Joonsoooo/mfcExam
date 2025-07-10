@@ -11,3 +11,7 @@
 #include "framework.h"
 
 #endif //PCH_H
+
+
+#define COLOR_RED   RGB(0xff, 0x00, 0x00)
+#define COLOR_GREEN RGB(0xff, 0xff, 0x00)

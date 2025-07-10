@@ -209,29 +209,30 @@ void CgPrjDlg::OnBnClickedBtnTest()
 	int nHeight = m_pDlgImage->m_image.GetHeight();
 	int nPitch = m_pDlgImage->m_image.GetPitch();
 
-	memset(fm, 0xff, nWidth * nHeight);
+	memset(fm, 0, nWidth * nHeight);
 
 
-	for (int k = 0; k < 100; k++)
+	for (int k = 0; k < MAX_POINT; k++)
 	{
 		int x = rand() % nWidth;
 		int y = rand() % nHeight;
-		fm[y * nPitch + x] = 0;
+		fm[y * nPitch + x] = rand() % 255;
 	}
 
 	int nIndex = 0;
-
+	int nTh = 100;
 	for (int j = 0; j < nHeight; j++)
 	{
 		for (int i = 0; i < nWidth; i++)
 		{
-			if (fm[j * nPitch + i] == 0) // memset를 안하면 이미 0인지점 100개에 새로운 지점을 0으로 만들어 nIndex가 100을 넘을 수 있음
+			if (fm[j * nPitch + i] > nTh) // memset를 안하면 이미 0인지점 100개에 새로운 지점을 0으로 만들어 nIndex가 100을 넘을 수 있음
 			{
-				if (m_pDlgImgResult->m_nDataCount < 100)
+				if (m_pDlgImgResult->m_nDataCount < nTh)
 				{
 					m_pDlgImgResult->m_ptData[nIndex].x = i;
 					m_pDlgImgResult->m_ptData[nIndex].y = j;
 					m_pDlgImgResult->m_nDataCount = ++nIndex;
+					std::cout << nIndex << " : " << i << " , " << j << std::endl;
 				}
 
 			}
