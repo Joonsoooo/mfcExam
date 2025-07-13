@@ -7,26 +7,8 @@
       "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrjDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\DlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\DlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrjDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\src\\mfc\\appmodul.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
@@ -35,6 +17,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 2$  \u0022     ",
       "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\gPrj.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0087 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\Process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\Process.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\DlgImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\DlgImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6B36995-DA51-DE12-A042-6309E529C00F}|gPrj\\gPrj.vcxproj|solutionrelative:gPrj\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +50,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Process.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.cpp",
+              "RelativeDocumentMoniker": "gPrj\\Process.cpp",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.cpp",
+              "RelativeToolTip": "gPrj\\Process.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T01:32:10.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Process.h",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.h",
+              "RelativeDocumentMoniker": "gPrj\\Process.h",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\Process.h",
+              "RelativeToolTip": "gPrj\\Process.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-10T01:28:36.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "pch.h",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\pch.h",
               "RelativeDocumentMoniker": "gPrj\\pch.h",
@@ -56,49 +82,23 @@
               "RelativeToolTip": "gPrj\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-10T01:18:50.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appmodul.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\src\\mfc\\appmodul.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\src\\mfc\\appmodul.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\src\\mfc\\appmodul.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\src\\mfc\\appmodul.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T14:27:58.451Z"
+              "WhenOpened": "2025-07-10T01:18:50.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "exe_common.inl",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\crt\\src\\vcruntime\\exe_common.inl",
-              "ViewState": "AgIAABcBAAAAAAAAAAAAACYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-09T14:22:19.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DlgImage.cpp",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.cpp",
               "RelativeDocumentMoniker": "gPrj\\DlgImage.cpp",
               "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.cpp",
               "RelativeToolTip": "gPrj\\DlgImage.cpp",
-              "ViewState": "AgIAABwAAAAAAAAAAAAewCoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-09T12:04:12.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:04:12.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DlgImage.h",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\DlgImage.h",
               "RelativeDocumentMoniker": "gPrj\\DlgImage.h",
@@ -106,20 +106,20 @@
               "RelativeToolTip": "gPrj\\DlgImage.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-09T11:47:23.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T11:47:23.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "gPrjDlg.h",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.h",
               "RelativeDocumentMoniker": "gPrj\\gPrjDlg.h",
-              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.h",
-              "RelativeToolTip": "gPrj\\gPrjDlg.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.h*",
+              "RelativeToolTip": "gPrj\\gPrjDlg.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-09T11:51:46.811Z"
+              "WhenOpened": "2025-07-09T11:51:46.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,34 +127,36 @@
               "Title": "gPrjDlg.cpp",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
               "RelativeDocumentMoniker": "gPrj\\gPrjDlg.cpp",
-              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
-              "RelativeToolTip": "gPrj\\gPrjDlg.cpp",
-              "ViewState": "AgIAANcAAAAAAAAAAAAewOIAAAADAAAAAAAAAA==",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp*",
+              "RelativeToolTip": "gPrj\\gPrjDlg.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T11:39:54.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc",
               "RelativeDocumentMoniker": "gPrj\\gPrj.rc",
               "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
               "RelativeToolTip": "gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-09T13:38:33.487Z"
+              "WhenOpened": "2025-07-09T13:38:33.487Z",
+              "EditorCaption": " - IDD_GPRJ_DIALOG - Dialog"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "gPrj.rc - IDD_CDlgImage - Dialog",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc",
               "RelativeDocumentMoniker": "gPrj\\gPrj.rc",
               "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc - IDD_CDlgImage - Dialog",
               "RelativeToolTip": "gPrj\\gPrj.rc - IDD_CDlgImage - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-09T12:11:00.355Z"
+              "WhenOpened": "2025-07-09T12:11:00.355Z",
+              "EditorCaption": " - IDD_CDlgImage - Dialog"
             }
           ]
         }

@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="gPrj.h">
+    <ClInclude Include="mfcCImage.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="gPrjDlg.h">
+    <ClInclude Include="mfcCImageDlg.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="framework.h">
@@ -33,42 +33,30 @@
     <ClInclude Include="pch.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="DlgImage.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Process.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gPrj.cpp">
+    <ClCompile Include="mfcCImage.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="gPrjDlg.cpp">
+    <ClCompile Include="mfcCImageDlg.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="DlgImage.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Process.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="gPrj.rc">
+    <ResourceCompile Include="mfcCImage.rc">
       <Filter>리소스 파일</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\gPrj.rc2">
+    <None Include="res\mfcCImage.rc2">
       <Filter>리소스 파일</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="res\gPrj.ico">
+    <Image Include="res\mfcCImage.ico">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
