@@ -118,8 +118,7 @@
               "RelativeToolTip": "gPrj\\gPrjDlg.h*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-09T11:51:46.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T11:51:46.811Z"
             },
             {
               "$type": "Document",
@@ -127,9 +126,9 @@
               "Title": "gPrjDlg.cpp",
               "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
               "RelativeDocumentMoniker": "gPrj\\gPrjDlg.cpp",
-              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp*",
-              "RelativeToolTip": "gPrj\\gPrjDlg.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrjDlg.cpp",
+              "RelativeToolTip": "gPrj\\gPrjDlg.cpp",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAAAF4BAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T11:39:54.565Z",
               "EditorCaption": ""
@@ -143,8 +142,7 @@
               "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
               "RelativeToolTip": "gPrj\\gPrj.rc - IDD_GPRJ_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-09T13:38:33.487Z",
-              "EditorCaption": " - IDD_GPRJ_DIALOG - Dialog"
+              "WhenOpened": "2025-07-09T13:38:33.487Z"
             },
             {
               "$type": "Document",
@@ -155,8 +153,7 @@
               "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\gSolution\\gPrj\\gPrj.rc - IDD_CDlgImage - Dialog",
               "RelativeToolTip": "gPrj\\gPrj.rc - IDD_CDlgImage - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-09T12:11:00.355Z",
-              "EditorCaption": " - IDD_CDlgImage - Dialog"
+              "WhenOpened": "2025-07-09T12:11:00.355Z"
             }
           ]
         }

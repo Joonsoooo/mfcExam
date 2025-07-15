@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|solutionrelative:mfcExamDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|solutionrelative:mfcExamDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|solutionrelative:mfcExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\ATLMFC\\INCLUDE\\AFXWIN.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|solutionrelative:mfcExam.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{CB3CC1E0-D5D7-0A4A-6E96-D25A97DE997A}|mfcExam.vcxproj|solutionrelative:mfcExam.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 2$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\atlimage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mfcExamDlg.h",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.h",
+              "RelativeDocumentMoniker": "mfcExamDlg.h",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.h",
+              "RelativeToolTip": "mfcExamDlg.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-10T05:54:21.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mfcExamDlg.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.cpp",
+              "RelativeDocumentMoniker": "mfcExamDlg.cpp",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExamDlg.cpp",
+              "RelativeToolTip": "mfcExamDlg.cpp",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAcwBMCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T05:54:29.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "afxwin.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\afxwin.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\afxwin.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\afxwin.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\afxwin.h",
+              "ViewState": "AgIAAFIVAAAAAAAAAAAcwGMVAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-12T11:14:09.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mfcExam.h",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.h",
+              "RelativeDocumentMoniker": "mfcExam.h",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.h",
+              "RelativeToolTip": "mfcExam.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-12T11:14:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mfcExam.cpp",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.cpp",
+              "RelativeDocumentMoniker": "mfcExam.cpp",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.cpp",
+              "RelativeToolTip": "mfcExam.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-12T11:03:02.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "atlimage.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\atlimage.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\atlimage.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\atlimage.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\atlmfc\\include\\atlimage.h",
+              "ViewState": "AgIAANsDAAAAAAAAAAAewOoDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-10T14:14:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mfcExam.rc - IDD_MFCEXAM_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\JoonETC\\MfsStudy\\mfcExam\\mfcExam\\mfcExam.rc",
+              "RelativeDocumentMoniker": "mfcExam.rc",
+              "ToolTip": "C:\\JoonETC\\MfsStudy\\glimExam\\mfcExam\\mfcExam.rc - IDD_MFCEXAM_DIALOG - Dialog",
+              "RelativeToolTip": "..\\..\\glimExam\\mfcExam\\mfcExam.rc - IDD_MFCEXAM_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-10T05:50:49.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
